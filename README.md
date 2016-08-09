@@ -41,4 +41,7 @@ http://localhost:8080/{ORIGIN_AIRPORT}/{DESTINATION_AIRPORT}/{DEPARTURE}/{RETURN
 
 ## Explanations
 
+- It was my first time with groovy, so I probably did not use the best practices, patterns and resources.
+- I think groovy is very powerfull.
+- Given more time i could do more tests, i just made 2 basic tests.
 
